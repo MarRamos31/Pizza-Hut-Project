@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="{{asset('css/bootstrap.css')}}">
 
-    <title>Flowelto Shop</title>
+    <title>PHizza Hut</title>
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light" style="background-color: red;">

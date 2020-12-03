@@ -1,0 +1,40 @@
+.register{
+    width: 70%;
+    length:60%
+}
+.addpizzaname{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+
+}
+.warna{
+    background-color: black;
+
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.nama1{
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 40px;
+
+}
+.nama2{
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 20px;
+    color: black;
+
+}
+.backgroundorder{
+    background-color: lightgray;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.imagemovie {
+    max-width: 200px;
+    max-height: 270px;
+    margin-left: 10px
+}
